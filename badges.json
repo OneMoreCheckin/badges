@@ -1,0 +1,465 @@
+[
+  {
+    "name" : "16 Candles",
+    "img" : "/birthday.png",
+    "type" : "foursquare",
+    "details" : "Send 5 \"Happy Birthday\" shoutouts to friends on foursquare.",
+    "rules" : {
+      "count" : 5,
+      "shout" : "happy birthday"
+    }
+  },
+  {
+    "name" : "Adventurer",
+    "img" : "/adventurer.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 10 different locations, and its yours.",
+    "rules" : {
+      "unique" : "venues",
+      "count" : 10
+    }
+  },
+  
+  {
+    "name" : "Animal House",
+    "img" : "/animalhouse.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 3 locations tagged \"frat boys\".",
+    "rules" : {
+      "count" : 3,
+      "categories" : ["4bf58dd8d48988d1b0941735"],
+      "tag" : "frat boys"
+    }
+  },
+  {
+    "name" : "Banksy Badge",
+    "img" : "/banksy.png",
+    "type" : "partner",
+    "details" : "Unlock it at select theaters playing the new Banksy movie.",
+    "rules" : {
+      "categories" : ["4bf58dd8d48988d17f941735"],
+      "count" : 1
+    }
+  },
+  {
+    "name" : "Bender",
+    "img" : "/bender.png",
+    "details" : "Checkin four different days in a row.",
+    "type" : "foursquare",
+    "rules" : {
+      "count" : 4,
+      "unique" : "days"
+    }
+    
+  },
+  {
+    "name" : "BK Art Star",
+    "img" : "/bk.png",
+    "type" : "partner",
+    "details" : "Checkin 3 times to the <a href=\"https://foursquare.com/v/brooklyn-museum/427d5680f964a520a8211fe3\" target=\"_blank\">Brooklyn Museum</a>.",
+    "rules" : {
+      "count" : 3,
+      "venues" : ["427d5680f964a520a8211fe3"]
+    }
+  },
+  {
+    "name" : "Brooklyn 4 Life",
+    "img" : "/brooklyn4life.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 25 different venues in Brooklyn.",
+    "rules" : {
+      "count" : 25,
+      "city": "Brooklyn"
+    }
+  },
+  {
+    "name" : "Celery Salt",
+    "img" : "/chicago_hotdog.png",
+    "details" : "Do 5 checkin in a selection of Chicago venues.",
+    "type" : "partner",
+    "rules" : {
+      "count" : 5,
+      "venues" : ["4676f5baf964a520e1471fe3", "49f7d3def964a520e36c1fe3", "4abebd26f964a520a38f20e3", "49ed01c9f964a520bd671fe3", "4b254b22f964a520796f24e3", "4b4b7b5bf964a520739d26e3", "4d75843f381fa35da2e6285d", "4d0aacc5b93b224b91a547bf", "4a9eacc0f964a520df3a20e3", "4b2fc8adf964a520d6ef24e3", "49f3473cf964a5207f6a1fe3", "45280395f964a520113b1fe3", "42cc7080f964a520ed251fe3", "4b5ce5a9f964a520da4929e3", "4b21e5c7f964a520434224e3", "40f5c900f964a520a00a1fe3", "40dcbc80f964a52080011fe3", "4bd0d88a77b29c7496a18b82", "4b2fc693f964a520b0ef24e3", "40dcbc80f964a52081011fe3"]
+    }
+    
+  },
+  {
+    "name" : "Crunked",
+    "img" : "/crunked.png",
+    "details" : "Checkin at 4 locations in a night.",
+    "type" : "foursquare",
+    "rules" : {
+      "count" : 4,
+      "period" : "night",
+      "unique" : "venues"
+    }
+    
+  },
+  {
+    "name" : "Douchebag",
+    "img" : "/douchebag.png",
+    "type" : "foursquare",
+    "details" : "Checkin 25 different places tagged douchebag.",
+    "rules" : {
+      "count" : 25,
+      "unique" : "venues",
+      "venues" : ["4aeb55fcf964a5201ac121e3", "44e36de7f964a52040371fe3", "49c3c85df964a52076561fe3", "450fb24df964a52077391fe3", "4a79f20cf964a52013e81fe3", "3fd66200f964a52016e51ee3", "450fb266f964a52078391fe3", "4a7710d6f964a5207be31fe3", "3fd66200f964a5205ae91ee3", "4a3f055ff964a520a4a31fe3", "45396895f964a520d73b1fe3", "45396895f964a520d73b1fe3", "3fd66200f964a520d7e81ee3", "45d9aa10f964a520ee421fe3", "3fd66200f964a52001e81ee3", "3fd66200f964a520ddf01ee3", "4459f9bff964a520e1321fe3", "470f3ff0f964a5208e4b1fe3", "4ae9cc3af964a52087b621e3", "451137c6f964a52090391fe3", "4a9c8342f964a5206d3720e3", "43f9f403f964a520d62f1fe3", "4b5d272ef964a520c15429e3", "4ab912baf964a520e77d20e3", "437fbc80f964a520d22a1fe3", "40870b00f964a52098f21ee3","49fa1dc1f964a520c16d1fe3", "49dba3b4f964a520e25e1fe3", "4b805400f964a520706830e3", "4b058693f964a5208c6622e3", "41424000f964a520981c1fe3", "4a22147ff964a5205d7d1fe3", "4b11fac4f964a520c48723e3", "4b4e7682f964a520a8ee26e3"]
+    }
+  },
+  {
+    "name" : "Explorer",
+    "img" : "/explorer.png",
+    "details" : "Checkin to 25 different locations, and its yours.",
+    "type" : "foursquare",
+    "rules" : {
+      "count" : 25,
+      "unique" : "venues"
+    }
+    
+  },
+  {
+    "name" : "Gym Rat",
+    "img" : "/gymrat.png",
+    "type" : "foursquare",
+    "details" : "Checkin to a Gym venue 10 times in 30 days.",
+    "rules" : {
+      "count" : 10,
+      "period" : "month",
+      "categories" : ["4bf58dd8d48988d175941735"]
+    }
+  },
+  {
+    "name" : "Baggage Handler",
+    "img" : "/baggagehandler.png",
+    "type" : "foursquare",
+    "details" : "Shout some keywords like “TSA”  ”Touchdown” or “Touch” during an airport check-in.",
+    "rules" : {
+      "void" : true,
+      "categories" : ["4bf58dd8d48988d1f0931735", "4bf58dd8d48988d1eb931735"]
+    }
+  },
+  {
+    "name" : "I’m on a boat!",
+    "img" : "/boat.png",
+    "type" : "foursquare",
+    "details" : "Checkin to a \"boat\" location.",
+    "rules" : {
+      "count" : 1,
+      "categories" : ["4e51a0c0bd41d3446defbb2e"]
+    }
+  },
+  {
+    "name" : "Jobs",
+    "img" : "/apple.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 3 different apple store locations.",
+    "rules" : {
+      "count" : 3,
+      "name" : "apple store",
+      "unique" : "venues"
+    }
+  },
+  {
+    "name" : "Local",
+    "img" : "/local.png",
+    "type" : "foursquare",
+    "details" : "Checkin to the same location 3 times in 1 week.",
+    "rules" : {
+      "count" : 3,
+      "group" : "venues",
+      "period" : "week"
+    
+    }
+  },
+  {
+    "name" : "Newbie",
+    "img" : "/newbie.png",
+    "details" : "Checkin one time.",
+    "type" : "foursquare",
+    "rules" : {
+      "count" : 1
+    }
+  },
+  {
+    "name" : "Overshare",
+    "img" : "/overshare.png",
+    "type" : "foursquare",
+    "details" : "Checkin 10+ times over a 12 hour time period.",
+    "rules" : {
+      "count" : 10,
+      "period" : "day"
+    }
+  },
+  {
+    "name" : "Player Please!",
+    "img" : "/playerplease.png",
+    "type" : "foursquare",
+    "details" : "Checkin with 3 members of the opposite sex.",
+    "rules" : {
+      "void": true
+    }
+  },
+  {
+    "name" : "School Night",
+    "img" : "/schoolnight.png",
+    "type" : "foursquare",
+    "details" : "Checkin after 3am on a school night.",
+    "rules" : {
+      "void" : true
+    }
+  },
+  {
+    "name" : "Super Mayor",
+    "img" : "/supermayor.png",
+    "type" : "foursquare",
+    "details" : "Become the mayor of ten locations at one time.",
+    "rules" : {
+      "mayor" : true,
+      "count" : 10
+    }
+  },
+  {
+    "name" : "Super Swarm",
+    "img" : "/super_swarm.png",
+    "type" : "foursquare",
+    "details" : "Checkin with 250 people.",
+    "rules" : {
+      "void" : true
+    }
+  },
+  {
+    "name" : "Super Duper Swarm",
+    "img" : "/super_duper_swarm.png",
+    "type" : "foursquare",
+    "details" : "Checkin with 500 people.",
+    "rules" : {
+      "void" : true
+    }
+  },
+  {
+    "name" : "Super User",
+    "img" : "/superuser.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 30 different times in a month period.",
+    "rules" : {
+      "count" : 30,
+      "period" : "month"
+    }
+  },
+  {
+    "name" : "Superstar",
+    "img" : "/superstar.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 50 different locations, and its yours.",
+    "rules" : {
+      "count" : 50,
+      "unique" : "venues"
+    }
+  },
+  {
+    "name" : "Swarm",
+    "img" : "/swarm.png",
+    "type" : "foursquare",
+    "details" : "Checkin with 50 people.",
+    "rules" : {
+      "void" : true
+    }
+  },
+  {
+    "name" : "Warhol",
+    "img" : "/gallery.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 10 different galleries.",
+    "rules" : {
+      "count" : 10,
+      "unique" : "venue",
+      "categories" : ["4bf58dd8d48988d1e2931735"]
+    }
+  },
+  {
+    "name" : "Ziggy’s Wagon",
+    "img" : "/foodtruck.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 3 different food truck venues.",
+    "rules" : {
+      "count" : 3,
+      "categories" : ["4bf58dd8d48988d1cb941735"]
+    }
+    
+  },
+  {
+    "name" : "Met Lover",
+    "img" : "/met_lover.png",
+    "type" : "partner",
+    "details" : "Follow <a href=\"https://foursquare.com/v/metropolitan-museum-of-art/427c0500f964a52097211fe3\" target=\"_blank\">Metropolitan Museum of Art</a> and checkin 2 times to the Museum.",
+    "rules" : {
+      "venues" : ["427c0500f964a52097211fe3"],
+      "count" : 5
+    }
+  },  
+  {
+    "name" : "Epic Swarm",
+    "type" : "foursquare",
+    "img" : "/epic_swarm.png",
+    "details" : "Checkin with 1000 people.",
+    "rules" : {
+      "void" : true
+    }
+  },
+  {
+    "name" : "9 to 5",
+    "img" : "/9to5.png",
+    "type" : "foursquare",
+    "details" : "Checkin to the same office venue 15 days out of the last 30. Only one check in per day counts.",
+    "rules" : {
+      "count" : 15,
+      "period" : "month",
+      "categories" : ["4bf58dd8d48988d124941735"]
+    }
+  },
+  {
+    "name" : "Downward Facing Dog",
+    "img" : "/yoga.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 3 venues categorized as \"yoga studio\".",
+    "rules" : {
+      "count" : 3,
+      "categories" : ["4bf58dd8d48988d102941735"]
+    }
+  },
+  {
+    "name" : "Century Club",
+    "img" : "/century.png",
+    "type" : "foursquare",
+    "details" : "Checkin 100 days at the same place.",
+    "rules" : {
+      "count" : 100,
+      "group" : "venuesbyday"
+    }
+  },
+  
+  {
+    "name" : "Ten Hundred",
+    "img" : "/YDXGSAX5CLUU15YB.png",
+    "type" : "foursquare",
+    "details" : "Checkin 1000 times.",
+    "rules" : {
+      "count" : 1000
+    }
+  },
+  {
+    "name" : "It's a girl",
+    "img" : "/UDC5LQNEWOW3SR2W.png",
+    "type" : "foursquare",
+    "details" : "Checkin to a venue categorized as a hospital and should \"It's a girl\".",
+    "rules" : {
+      "void" : true,
+      "categories" : ["4bf58dd8d48988d196941735"]
+    }
+  },
+  {
+    "name" : "It's a boy",
+    "img" : "/WBF5E2UDPABFNEEL.png",
+    "type" : "foursquare",
+    "details" : "Checkin to a venue categorized as a hospital and should \"It's a boy\".",
+    "rules" : {
+      "void" : true,
+      "categories" : ["4bf58dd8d48988d196941735"]
+    }
+  },
+
+  {
+    "name" : "Quad squatter",
+    "img" : "/college-quad.png",
+    "type" : "foursquare",
+    "details" : "Checkin 10 times at a venue categorized as \"Quad,Commons\".",
+    "rules" : {
+      "count" : 10,
+      "categories" : ["4bf58dd8d48988d1aa941735"]
+    }
+  },
+  {
+    "name" : "Munchies",
+    "img" : "/college-munchies.png",
+    "type" : "foursquare",
+    "details" : "Checkin to 5 different campus cafes, restaurants, food courts or dining halls.",
+    "rules" : {
+      "count" : 5,
+      "categories" : ["4bf58dd8d48988d1a1941735"],
+      "unique" : "venues"
+    }
+  },
+  {
+    "name" : "Campus explorer",
+    "img" : "/college-explorer.png",
+    "type" : "foursquare",
+    "details" : "Checkin 10 times at different campuses",
+    "rules" : {
+      "count" : 10,
+      "categories" : ["4d4b7105d754a06372d81259"],
+      "unique" : "venues"
+    }
+  },
+  {
+    "name" : "Smells Like School Spirit",
+    "img" : "/college-schoolspirit.png",
+    "type" : "foursquare",
+    "details" : "Checkin 5 times at any college stadium, field or complex.",
+    "rules" : {
+       "count" : 5,
+       "categories" : ["4bf58dd8d48988d1b4941735"]
+    }
+  },
+  {
+    "name" : "Just Dessert",
+    "img" : "/bravo_just_desserts.png",
+    "type" : "partner",
+    "details" : "Follow <a href=\"http://foursquare.com/bravotv\" target=\"_blank\">\"Bravo\"</a> and checkin at two locations categorized as Desserts, Bakery, Cupcake or Ice Cream.",
+    "rules" : {
+      "count" : 2,
+      "categories" : ["4bf58dd8d48988d1d0941735", "4bf58dd8d48988d16a941735", "4bf58dd8d48988d1bc941735", "4bf58dd8d48988d1c9941735"]
+    }
+  },
+  {
+    "name" : "Sounds so good",
+    "img" : "/ellen-music.png",
+    "type" : "partner",
+    "details" : "Follow <a href=\"https://foursquare.com/theellenshow\" target=\"_blank\">The Ellen DeGeneres Show</a> and checkin to 3 music related venues.",
+    "rules" : {
+      "count" : 3,
+      "categories" : ["4bf58dd8d48988d1e5931735"]
+    }
+  },
+  {
+    "name" : "excELLENt fan",
+    "img" : "/ellen.png",
+    "type" : "partner",
+    "details" : "Follow <a href=\"https://foursquare.com/theellenshow\" target=\"_blank\">The Ellen DeGeneres Show</a> and checkin to 5 venues categorized as bakery, vegetarian, dog run, movie theater, or park.",
+    "rules" : {
+      "void" : true 
+    }
+  },
+  {
+    "name" : "American Red Cross",
+    "img" : "/redcross.png",
+    "type" : "partner",
+    "details" : "Shout \"Donation Red Cross\"",
+    "rules" : {
+      "count" : 1,
+      "shout" : "Donation Red Cross"
+    }
+  },
+  {
+    "name" : "People VIP",
+    "img" : "/people_vip.png",
+    "type" : "partner",
+    "details" : "Follow <a href=\"http://foursquare.com/peoplemag\" target=\"_blank\">People</a>, and checkin to 5 venues categorized as \"Nightclub, Discotheque\".",
+    "rules" : {
+      "count" : 5,
+      "categories" : ["4bf58dd8d48988d11f941735"]
+    }
+  }
+  
+]
+
+

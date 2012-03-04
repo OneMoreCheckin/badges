@@ -1,0 +1,176 @@
+{
+    "levels" : {
+    	"unlock" : {
+    		"find" : "venues",
+      		"count" : 5
+    	},
+    	"more" : {
+    		"unique" : "venues",
+      		"count" : 5,
+      		"period" : "last",
+      		"exlude" : "old"
+    	}
+    },
+
+    "badges" : [
+    	{
+    		"id" : "4c4f08667a0803bbcf202ab7",
+    		"name" : "Don’t Stop Believin’",
+    		"img" : "/karaoke.png",
+      		"categories" : ["4bf58dd8d48988d120941735"]
+    	},
+    	{
+    		"id" : "4ddbf6161520f579d65d87e0",
+    		"name" : "Vinyl",
+    		"img" : "/4ZQ2MWNZUFSM3BSO.png",
+    		"categories" : ["4bf58dd8d48988d10d951735"]
+    	},
+    	{
+		    "name" : "Pizzaiolo",
+		    "img" : "/pizza.png",
+		    "id" : "4c4f08667a0803bbdd202ab7",
+		    "categories" : ["4bf58dd8d48988d1ca941735"]
+		},
+		{ 
+			"name" : "Wino",
+		    "img" : "/G2LLAO2NYANJWMWH.png",
+		    "id" : "4df23ba9922e8e1ea8903cca",
+		    "categories" : ["4bf58dd8d48988d123941735"]
+		},
+		{
+			"name" : "JetSetter",
+    		"img" : "/jetsetter.png",
+    		"id" : "4c4f08667a0803bbda202ab7",
+      		"categories" : ["4bf58dd8d48988d1f0931735", "4bf58dd8d48988d1eb931735"]
+		},
+		{
+			"id" : "4c4f08667a0803bbdc202ab7",
+		    "name" : "Zoetrope",
+		    "img" : "/movie.png",
+		    "categories" : ["4bf58dd8d48988d17f941735"]
+		},
+		{
+		    "name" : "Warhol",
+		    "img" : "/gallery.png",
+		    "id" : "4c4f08667a0803bbdf202ab7",
+		    "categories" : ["4bf58dd8d48988d1e2931735"]
+		},
+		{
+			"name" : "Monkey Bars",
+			"id" : "4c4f08667a0803bbe0202ab7",
+			"img" : "/playground.png",
+			"categories" : ["4bf58dd8d48988d1e7941735"]
+		},
+		{
+			"name" : "Dog's best friend",
+			"id" : "4c4f08677a0803bb4e212ab7",
+    		"img" : "/dogsbestfriend.png",
+      		"categories" : ["4bf58dd8d48988d1e5941735"]
+
+		},
+		{
+			"id" : "4c7d1dd0978976b0c7cee939",
+			"name" : "Swimmies",
+    		"img" : "/swimmies.png",
+      		"categories" : ["4bf58dd8d48988d1e2941735", "4bf58dd8d48988d161941735"]
+		},
+		{
+			"id" : "4c7d1deb978976b064cfe939",
+    		"name" : "Great outdoors",
+    		"img" : "/greatoutdoors.png",
+      		"categories" : ["4d4b7105d754a06377d81259"]
+		},
+		{
+			"id" : "4cec5f0bf7ac8eecd229e51e",
+			"name" : "Ski Bum",
+    		"img" : "/ski.png",
+      		"categories" : ["4bf58dd8d48988d1e9941735"]
+    	},
+    	{
+    		"id" : "4cf5199da41a60fcf71d2fc0",
+    		"name" : "booksworm",
+    		"img" : "/bookworm.png",
+      		"categories" : ["4bf58dd8d48988d114951735"]
+    	},
+    	{
+    		"id" : "4d0925ed304460fc7117da63",
+    		"name" : "7-10 split",
+    		"img" : "/bowling.png",
+      		"categories" : ["4bf58dd8d48988d1e4931735"]
+    	},
+    	{
+    		"name" : "Fixer Upper",
+    		"id" : "4d36211d2e4076ebeca814e6",
+    		"img" : "/fixerupper.png",
+      		"categories" : ["4bf58dd8d48988d112951735"]
+
+  		},
+  		{
+		    "name" : "Handmade Hero",
+		    "id" : "4d3efab1ac038eec826d6cfc",
+		    "img" : "/handmadehero.png",
+	    	"categories" : ["4bf58dd8d48988d127951735"]    
+		},
+		{
+		    "name" : "Fried Check-in",
+		    "id" : "4dbae35b4159a4e20f525b96",
+		    "img" : "/TCRBW4PQKS44IM2L.png",
+		    "categories" : ["4d4ae6fc7a7b7dea34424761"]
+		},
+		{
+		    "name" : "Triple play",
+		    "img" : "/5NYE0PW4EC0V321Z.png",
+		    "id" : "4dfbc8e5922e5ece12ea29ba",
+		    "categories" : ["4bf58dd8d48988d18c941735"]
+		},
+		{
+		    "name" : "Baker's Dozen",
+		    "id" : "4e454b72922ee4def2921e93",
+		    "img" : "/AEZQ4XA2JMKAE4D5.png",
+		    "categories" : ["4bf58dd8d48988d16a941735"]
+		},
+		{
+			"name" : "Greasy Spoon",
+			"id" : "4e988be87beb567e777d83e9",
+			"img" : "/R100ZMKBRYCAHT3Z.png",
+			"categories" : ["4bf58dd8d48988d147941735"]
+		},
+		{
+			"name" : "Herbivore",
+			"id" : "4ebb04b27bebd6a83f111f11",
+			"img" : "/JKBMDU5TYZP2KXTM.png",
+			"categories" : ["4bf58dd8d48988d1d3941735"]
+		},
+		{
+			"name" : "Bento",
+			"id" : "4ebb07357bebd6a83f116c24",
+			"img" : "/5Z1J5XEC5HDWRW2C.png",
+			"categories" : ["4bf58dd8d48988d1d2941735", "4bf58dd8d48988d111941735"]
+		},
+		{
+			"name" : "Hot Tamale",
+			"id" : "4ebb078f7bebd6a83f1176bd",
+			"img" : "/L2RRMCA2PGOBSFRN.png",
+			"categories" : ["4bf58dd8d48988d1c1941735"]
+		},
+		{
+			"name" : "Treat Yo Self!",
+			"id" : "4ecbdacb7beb20ebed8d3e6a",
+			"img" : "/WFBPPRJFUQZX1NWN.png",
+			"categories" : ["4bf58dd8d48988d1ed941735"]
+		},
+		{
+			"name" : "Mall Rat",
+			"id" : "4ecbdd9e7beb20ebed8da36d",
+			"img" : "/VCNL1VD5FZAK5JBN.png",
+			"categories" : ["4bf58dd8d48988d1fd941735"]
+		},
+		{
+			"name" : "Blue Note",
+			"id" : "4ecbdf417beb20ebed8ddfe4",
+			"img" : "/EQA4KE1TIP3RNQY3.png",
+			"categories" : ["4bf58dd8d48988d1e7931735", "4bf58dd8d48988d1db941735"]
+		}
+
+    ]
+}
