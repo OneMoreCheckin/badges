@@ -96,17 +96,6 @@
     
   },
   {
-    "name" : "Douchebag",
-    "img" : "/douchebag.png",
-    "type" : "foursquare",
-    "details" : "Checkin 25 different places tagged douchebag.",
-    "rules" : {
-      "count" : 25,
-      "unique" : "venues",
-      "venues" : ["4aeb55fcf964a5201ac121e3", "44e36de7f964a52040371fe3", "49c3c85df964a52076561fe3", "450fb24df964a52077391fe3", "4a79f20cf964a52013e81fe3", "3fd66200f964a52016e51ee3", "450fb266f964a52078391fe3", "4a7710d6f964a5207be31fe3", "3fd66200f964a5205ae91ee3", "4a3f055ff964a520a4a31fe3", "45396895f964a520d73b1fe3", "45396895f964a520d73b1fe3", "3fd66200f964a520d7e81ee3", "45d9aa10f964a520ee421fe3", "3fd66200f964a52001e81ee3", "3fd66200f964a520ddf01ee3", "4459f9bff964a520e1321fe3", "470f3ff0f964a5208e4b1fe3", "4ae9cc3af964a52087b621e3", "451137c6f964a52090391fe3", "4a9c8342f964a5206d3720e3", "43f9f403f964a520d62f1fe3", "4b5d272ef964a520c15429e3", "4ab912baf964a520e77d20e3", "437fbc80f964a520d22a1fe3", "40870b00f964a52098f21ee3","49fa1dc1f964a520c16d1fe3", "49dba3b4f964a520e25e1fe3", "4b805400f964a520706830e3", "4b058693f964a5208c6622e3", "41424000f964a520981c1fe3", "4a22147ff964a5205d7d1fe3", "4b11fac4f964a520c48723e3", "4b4e7682f964a520a8ee26e3"]
-    }
-  },
-  {
     "name" : "Explorer",
     "img" : "/explorer.png",
     "details" : "Checkin to 25 different locations, and its yours.",
