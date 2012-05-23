@@ -129,37 +129,6 @@
     }
   },
   {
-    "name" : "Baggage Handler",
-    "img" : "/baggagehandler.png",
-    "type" : "foursquare",
-    "details" : "Shout some keywords like “TSA”  ”Touchdown” or “Touch” during an airport check-in.",
-    "rules" : {
-      "void" : true,
-      "categories" : ["4bf58dd8d48988d1f0931735", "4bf58dd8d48988d1eb931735"]
-    }
-  },
-  {
-    "name" : "I’m on a boat!",
-    "img" : "/boat.png",
-    "type" : "foursquare",
-    "details" : "Checkin to a \"boat\" location.",
-    "rules" : {
-      "count" : 1,
-      "categories" : ["4e51a0c0bd41d3446defbb2e"]
-    }
-  },
-  {
-    "name" : "Jobs",
-    "img" : "/apple.png",
-    "type" : "foursquare",
-    "details" : "Checkin to 3 different apple store locations.",
-    "rules" : {
-      "count" : 3,
-      "name" : "apple store",
-      "unique" : "venues"
-    }
-  },
-  {
     "name" : "Local",
     "img" : "/local.png",
     "type" : "foursquare",
