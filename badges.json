@@ -389,15 +389,6 @@
     }
   },
   {
-    "name" : "excELLENt fan",
-    "img" : "/ellen.png",
-    "type" : "partner",
-    "details" : "Follow <a href=\"https://foursquare.com/theellenshow\" target=\"_blank\">The Ellen DeGeneres Show</a> and checkin to 5 venues categorized as bakery, vegetarian, dog run, movie theater, or park.",
-    "rules" : {
-      "void" : true 
-    }
-  },
-  {
     "name" : "American Red Cross",
     "img" : "/redcross.png",
     "type" : "partner",
@@ -405,16 +396,6 @@
     "rules" : {
       "count" : 1,
       "shout" : "Donation Red Cross"
-    }
-  },
-  {
-    "name" : "People VIP",
-    "img" : "/people_vip.png",
-    "type" : "partner",
-    "details" : "Follow <a href=\"http://foursquare.com/peoplemag\" target=\"_blank\">People</a>, and checkin to 5 venues categorized as \"Nightclub, Discotheque\".",
-    "rules" : {
-      "count" : 5,
-      "categories" : ["4bf58dd8d48988d11f941735"]
     }
   }
   
