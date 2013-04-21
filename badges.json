@@ -292,7 +292,8 @@
     "details" : "Checkin 100 days at the same place.",
     "rules" : {
       "count" : 100,
-      "group" : "venuesbyday"
+      "group" : "venuesbyday",
+      "exclude_categories" : ["4bf58dd8d48988d103941735", "4bf58dd8d48988d13b941735", "4bf58dd8d48988d124941735"]
     }
   },
   
