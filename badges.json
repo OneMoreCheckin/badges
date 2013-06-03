@@ -310,7 +310,7 @@
     "name" : "It's a girl",
     "img" : "/UDC5LQNEWOW3SR2W.png",
     "type" : "foursquare",
-    "details" : "Checkin to a venue categorized as a hospital and should \"It's a girl\".",
+    "details" : "Checkin to a venue categorized as a hospital and shout \"It's a girl\".",
     "rules" : {
       "void" : true,
       "categories" : ["4bf58dd8d48988d196941735"]
@@ -320,7 +320,7 @@
     "name" : "It's a boy",
     "img" : "/WBF5E2UDPABFNEEL.png",
     "type" : "foursquare",
-    "details" : "Checkin to a venue categorized as a hospital and should \"It's a boy\".",
+    "details" : "Checkin to a venue categorized as a hospital and shout \"It's a boy\".",
     "rules" : {
       "void" : true,
       "categories" : ["4bf58dd8d48988d196941735"]
