@@ -200,7 +200,24 @@
 			"id" : "4f6a48fa7beb7e5831d4eb25",
 			"img" : "/QWUWU3B1435TFTEC.png",
 			"categories" : ["4bf58dd8d48988d129951735"]
-		}
-
+		},
+		{
+			"name" : "Molto Buono",
+			"id" : "5177058d011cefa9d2befd7c",
+			"img" : "/VNZ5JTJPNCRKEB4P.png",
+			"categories" : ["4bf58dd8d48988d110941735"]
+		},
+		{
+			"name" : "Sweet n' Sour Check-In",
+			"id" : "5177067d011cefa9d2bfe62d",
+			"img" : "/YKTL0H2VH2ZHPXTD_10.png",
+			"categories" : ["4bf58dd8d48988d145941735"]
+		},
+		{
+			"name" : "Earl of Sandwich",
+			"id" : "5177053f011cefa9d2beb127",
+			"img" : "/YTDUCFSJIXSOWHAL_10.png",
+			"categories" : ["4bf58dd8d48988d1c5941735"]
+		},
     ]
 }
